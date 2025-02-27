@@ -50,12 +50,6 @@ A classe `neuralNetwork` define a arquitetura da rede e seus principais métodos
 ### Como Executar
 
 1. Clone este repositório:
-
-    ```
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
-    ```
-    
 2. Instale as dependências necessárias (caso ainda não tenha):
 
     `pip install numpy scipy matplotlib`
