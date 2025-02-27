@@ -4,6 +4,8 @@ Este projeto implementa uma rede neural artificial para reconhecimento de dígit
 
 ## Ferramentas utilizadas
 
+![Logo do VS Code](https://code.visualstudio.com/assets/apple-touch-icon.png) ![Logo do Python](https://static.wixstatic.com/media/4bef97_3fca4225935f490783ac9ecb3f27a8b1~mv2.png/v1/fill/w_256,h_256,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/python_logo.png)
+
 - Visual Studio Code: ambiente de desenvolvimento
 - Python: Linguagem de programação
 
@@ -60,7 +62,7 @@ A classe `neuralNetwork` define a arquitetura da rede e seus principais métodos
 
 3. Execute o script principal:
 
-    `python seu_script.py`
+    `python network.py`
 
 ### Observações
 
